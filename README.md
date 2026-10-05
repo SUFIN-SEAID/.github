@@ -57,7 +57,8 @@ Credenciais, dados pessoais e informações de acesso restrito não devem ser in
 
 ## Referência institucional
 
-Para informações institucionais e acesso aos canais oficiais, consulte o [portal da Secretaria de Assuntos Internacionais e Desenvolvimento do Ministério do Planejamento e Orçamento]([[https://www.gov.br/planejamento/pt-br](https://www.gov.br/planejamento/pt-br/assuntos/assuntos-internacionais-e-desenvolvimento/cofiex](https://www.gov.br/planejamento/pt-br/assuntos/assuntos-internacionais-e-desenvolvimento)).
+Para informações institucionais e acesso aos canais oficiais, consulte o [portal da Secretaria de Assuntos Internacionais e Desenvolvimento do Ministério do Planejamento e Orçamento](https://www.gov.br/planejamento/pt-br/assuntos/assuntos-internacionais-e-desenvolvimento).
+
 
 ---
 
